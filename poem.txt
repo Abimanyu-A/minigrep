@@ -1,1 +1,21 @@
-huchu, aho aho, iiiachu, blegh, yuck,
+"The Coder's Quest"
+
+In silent glow of screens so bright,
+A coder toils through day and night.
+With keys that click and lines that grow,
+They weave the spells that machines know.
+
+A bug appears—oh, cruel fate!
+A loop that runs, but won’t terminate.
+They trace the logs with weary eyes,
+Debugging truths in cold disguise.
+
+Yet joy arrives—a match is found!
+A function works, its logic sound.
+The terminal sings, the tests all pass,
+A fleeting win—but not their last.
+
+For code is art, both wild and wise,
+A dance of thought in zeros and ones.
+And though the errors never cease,
+The coder fights… and finds their peace.
